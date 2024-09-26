@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 188, 197);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: rgb(216, 31, 56);
+    text-align: center;
+}
+
+p {
+    color: rgb(102, 22, 33);
+    text-align: center;
+}
+
+hr {
+    width: 10%;
+    color: rgb(160, 0, 192);
+}
+
+footer {
+    font-size: 9px;
+}
